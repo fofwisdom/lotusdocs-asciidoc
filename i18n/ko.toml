@@ -28,6 +28,9 @@
 [feedback_helpful]
     other = "이 페이지가 도움이 되었나요?"
 
+[feedback_placeholder]
+    other = "(선택 사항) 가능한 한 구체적이고 자세하게 작성해 주세요!"
+
 [feedback_submit]
     other = "제출"
 
